@@ -3,6 +3,7 @@
     <a href="https://oliverparoczai.dev">Check out my website</a><br/>
     <br/>
     💻 Programmer 💻<br/>
+    📡 Networking Technician 📡<br/>
     🌍 Web Developer 🌍<br/>
     🛠️ Industrial Automation Technician 🛠️
   </p>
